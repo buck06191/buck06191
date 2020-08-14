@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## tl;dr
+## `tl;dr`
  - 😄 Pronouns: he/him
  - 🌱 I’m currently learning: golang
  - 🤔 I’m looking for help with: Transferrable design skills - what's the best way to solve "this" problem and why?
