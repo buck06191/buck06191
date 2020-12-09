@@ -8,7 +8,7 @@
  - 💬 Ask me about: mentoring
 
 ## `whoami`
-Hey, I'm Josh! I'm a Full Stack software engineer working at The Guardian. I've been a professional software developer since October 2019 and before that I spent 5 years working in academia, solving all sorts of problems to do with understanding how baby brains work, how to monitor and simulate them, and how to clean up the data we collect. (If you want to see my publications, you should be able to find them [here](https://orcid.org/0000-0001-7559-1413)).
+Hey, I'm Josh! I'm a Full Stack software engineer working at The Guardian. I've been building and maintaining software professionally for the last 4 years or so, the first 3 in academia and then as a software developer in industrey since October 2019. In academia I was solving all sorts of problems to do with understanding how baby brains work, how to monitor and simulate them, and how to clean up the data we collect. (If you want to see my publications, you should be able to find them [here](https://orcid.org/0000-0001-7559-1413)).
 
 I'm loving working in software and being able to build and work on so many great projects and products. I'm also really passionate about trying to improve diversity and inclusion within tech and the industry as a whole, so feel free to get in touch with me if you want to discuss mentoring and I'll try my best to find time for it!
 
