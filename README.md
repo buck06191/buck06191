@@ -11,6 +11,10 @@ Hey, I'm Josh! I'm a Full Stack software engineer working at Nando's. I've been 
 
 I'm loving working in software and being able to build and work on so many great projects and products. I'm also really passionate about trying to improve diversity and inclusion within tech and the industry as a whole, so feel free to get in touch with me if you want to discuss mentoring and I'll try my best to find time for it!
 
+## `elsewhere`
+
+- <a rel="me" href="https://hachyderm.io/@theyorkshirebeard">`@theyorkshirebeard@hachyderm.io`</a>
+
 <!--
 **buck06191/buck06191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
